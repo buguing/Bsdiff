@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="合并"
         android:onClick="patch"
-        android:visibility="visible"/>
+        android:visibility="gone"/>
 
     <TextView
         android:id="@+id/tv_version"
