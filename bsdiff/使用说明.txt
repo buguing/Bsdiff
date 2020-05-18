@@ -1,0 +1,4 @@
+首先进入bsdiff路径，进入cmd
+执行：bsdiff old.apk new.apk patch.patch
+生成：patch.patch文件放到手机根目录
+最后：app上点击合成 由ndk完成patch,成功安装新版本apk，则增量更新成功
